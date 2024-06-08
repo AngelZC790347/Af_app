@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F376AFCA-2092-4B06-AE53-1AA9931AF9FB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B338D6E3-72D9-45B6-9551-2599762A6C13"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AutoFitApp/Providers/ExerciseProvider.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3A13D03-C4AF-4108-8324-3F8F6B9750DD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AutoFitApp/shared/utils/common.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "parseJson(location:model:loginRequired:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B80F9103-443B-4EA4-BD9B-2CD955CF1A96"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AutoFitApp/shared/utils/common.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "parseJson(location:model:loginRequired:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B80F9103-443B-4EA4-BD9B-2CD955CF1A96 - 9060fb6e70cfc89d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for static AutoFitApp.Common.parseJson&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(location: AutoFitApp.LocationSource, model: &#x3c4;_0_0.Type, loginRequired: Swift.Bool) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "AutoFitApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelzuniga/Documents/XcodeProjects/AutoFitApp/AutoFitApp/shared/utils/common.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78">
+               </Location>
+               <Location
+                  uuid = "B80F9103-443B-4EA4-BD9B-2CD955CF1A96 - 5a7a8bf097e60483"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static AutoFitApp.Common.parseJson&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(location: AutoFitApp.LocationSource, model: &#x3c4;_0_0.Type, loginRequired: Swift.Bool) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "AutoFitApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelzuniga/Documents/XcodeProjects/AutoFitApp/AutoFitApp/shared/utils/common.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00D52220-A5AB-430F-A2BD-609C9BEC06B9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AutoFitApp/Routines/models/RoutineModelLogic.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "00D52220-A5AB-430F-A2BD-609C9BEC06B9 - 2ed2533ddc676b9b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for AutoFitApp.RoutineModelLogic.loadData() async -&gt; ()"
+                  moduleName = "AutoFitApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelzuniga/Documents/XcodeProjects/AutoFitApp/AutoFitApp/Routines/models/RoutineModelLogic.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25">
+               </Location>
+               <Location
+                  uuid = "00D52220-A5AB-430F-A2BD-609C9BEC06B9 - 7d6b23bae50bc476"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for AutoFitApp.RoutineModelLogic.loadData() async -&gt; ()"
+                  moduleName = "AutoFitApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelzuniga/Documents/XcodeProjects/AutoFitApp/AutoFitApp/Routines/models/RoutineModelLogic.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25">
+               </Location>
+               <Location
+                  uuid = "00D52220-A5AB-430F-A2BD-609C9BEC06B9 - a00f852eb50c3999"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for AutoFitApp.RoutineModelLogic.loadData() async -&gt; ()"
+                  moduleName = "AutoFitApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelzuniga/Documents/XcodeProjects/AutoFitApp/AutoFitApp/Routines/models/RoutineModelLogic.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25">
+               </Location>
+               <Location
+                  uuid = "00D52220-A5AB-430F-A2BD-609C9BEC06B9 - 8c9dcec85ce93684"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for AutoFitApp.RoutineModelLogic.loadData() async -&gt; ()"
+                  moduleName = "AutoFitApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelzuniga/Documents/XcodeProjects/AutoFitApp/AutoFitApp/Routines/models/RoutineModelLogic.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "40B092A5-31A1-4FCE-8B75-1C7E50D63AEA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AutoFitApp/shared/utils/common.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "parseJson(location:model:loginRequired:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

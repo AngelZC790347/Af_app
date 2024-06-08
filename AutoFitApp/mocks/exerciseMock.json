@@ -1,0 +1,197 @@
+[
+  {
+    "id": 1,
+    "name": "Bench Press",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTswWOxHMUwB_TQ0R6_AeT8G36l-uVob8RI2rR4fc02pQ&s",
+    "type": 0,
+    "stimulus": [
+      "Triceps",
+      "Shoulders",
+      "Chest"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Squat",
+    "image": "https://static.strengthlevel.com/images/exercises/squat/squat-800.jpg",
+    "type": 1,
+    "stimulus": [
+      "Quadriceps",
+      "Glutes",
+      "Lower Back"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Deadlift",
+    "image": "https://blogscdn.thehut.net/wp-content/uploads/sites/495/2018/10/25171220/Blog-Deadlifting-Male_1800x672_1200x672_acf_cropped.jpg",
+    "type": 1,
+    "stimulus": [
+      "Hamstrings",
+      "Glutes",
+      "Back"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Pull-Up",
+    "image": "https://example.com/images/pull_up.png",
+    "type": 2,
+    "stimulus": [
+      "Biceps",
+      "Back",
+      "Shoulders"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Overhead Press",
+    "image": "https://example.com/images/overhead_press.png",
+    "type": 0,
+    "stimulus": [
+      "Shoulders",
+      "Triceps",
+      "Upper Chest"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Lateral Raise",
+    "image": "https://example.com/images/lateral_raise.png",
+    "type": 0,
+    "stimulus": [
+      "Shoulders"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Leg Press",
+    "image": "https://example.com/images/leg_press.png",
+    "type": 1,
+    "stimulus": [
+      "Quadriceps",
+      "Glutes"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Bicep Curl",
+    "image": "https://example.com/images/bicep_curl.png",
+    "type": 2,
+    "stimulus": [
+      "Biceps"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Tricep Extension",
+    "image": "https://example.com/images/tricep_extension.png",
+    "type": 0,
+    "stimulus": [
+      "Triceps"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Calf Raise",
+    "image": "https://example.com/images/calf_raise.png",
+    "type": 1,
+    "stimulus": [
+      "Calves"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Lat Pulldown",
+    "image": "https://example.com/images/lat_pulldown.png",
+    "type": 2,
+    "stimulus": [
+      "Back",
+      "Biceps"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Seated Row",
+    "image": "https://example.com/images/seated_row.png",
+    "type": 2,
+    "stimulus": [
+      "Back",
+      "Biceps"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Leg Curl",
+    "image": "https://example.com/images/leg_curl.png",
+    "type": 1,
+    "stimulus": [
+      "Hamstrings"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Leg Extension",
+    "image": "https://example.com/images/leg_extension.png",
+    "type": 1,
+    "stimulus": [
+      "Quadriceps"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Chest Fly",
+    "image": "https://example.com/images/chest_fly.png",
+    "type": 0,
+    "stimulus": [
+      "Chest"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Shoulder Press",
+    "image": "https://example.com/images/shoulder_press.png",
+    "type": 0,
+    "stimulus": [
+      "Shoulders",
+      "Triceps"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Hammer Curl",
+    "image": "https://example.com/images/hammer_curl.png",
+    "type": 2,
+    "stimulus": [
+      "Biceps"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Skull Crusher",
+    "image": "https://example.com/images/skull_crusher.png",
+    "type": 0,
+    "stimulus": [
+      "Triceps"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Cable Crossover",
+    "image": "https://example.com/images/cable_crossover.png",
+    "type": 0,
+    "stimulus": [
+      "Chest"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Hip Thrust",
+    "image": "https://example.com/images/hip_thrust.png",
+    "type": 1,
+    "stimulus": [
+      "Glutes",
+      "Hamstrings"
+    ]
+  }
+]

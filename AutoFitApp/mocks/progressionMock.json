@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "reps": 10,
+    "series": 4,
+    "weight": 75.0,
+    "exercise": 1,
+    "progrmasDay": 0
+  },
+  {
+    "id": 2,
+    "reps": 12,
+    "series": 3,
+    "weight": 90.0,
+    "exercise": 2,
+    "progrmasDay": 1
+  },
+  {
+    "id": 3,
+    "reps": 8,
+    "series": 4,
+    "weight": 100.0,
+    "exercise": 3,
+    "progrmasDay": 2
+  },
+  {
+    "id": 4,
+    "reps": 10,
+    "series": 4,
+    "weight": 70.0,
+    "exercise": 4,
+    "progrmasDay": 3
+  },
+  {
+    "id": 5,
+    "reps": 15,
+    "series": 3,
+    "weight": 30.0,
+    "exercise": 5,
+    "progrmasDay": 4
+  },
+  {
+    "id": 6,
+    "reps": 12,
+    "series": 3,
+    "weight": 40.0,
+    "exercise": 6,
+    "progrmasDay": 5
+  },
+  {
+    "id": 7,
+    "reps": 12,
+    "series": 4,
+    "weight": 25.0,
+    "exercise": 7,
+    "progrmasDay": 6
+  },
+  {
+    "id": 8,
+    "reps": 10,
+    "series": 4,
+    "weight": 200.0,
+    "exercise": 8,
+    "progrmasDay": 0
+  },
+  {
+    "id": 9,
+    "reps": 15,
+    "series": 3,
+    "weight": 50.0,
+    "exercise": 9,
+    "progrmasDay": 1
+  },
+  {
+    "id": 10,
+    "reps": 10,
+    "series": 3,
+    "weight": 60.0,
+    "exercise": 10,
+    "progrmasDay": 2
+  },
+  {
+    "id": 11,
+    "reps": 8,
+    "series": 3,
+    "weight": 70.0,
+    "exercise": 11,
+    "progrmasDay": 3
+  },
+  {
+    "id": 12,
+    "reps": 12,
+    "series": 4,
+    "weight": 95.0,
+    "exercise": 12,
+    "progrmasDay": 4
+  },
+  {
+    "id": 13,
+    "reps": 10,
+    "series": 4,
+    "weight": 110.0,
+    "exercise": 13,
+    "progrmasDay": 5
+  },
+  {
+    "id": 14,
+    "reps": 12,
+    "series": 3,
+    "weight": 80.0,
+    "exercise": 14,
+    "progrmasDay": 6
+  },
+  {
+    "id": 15,
+    "reps": 15,
+    "series": 3,
+    "weight": 35.0,
+    "exercise": 15,
+    "progrmasDay": 0
+  },
+  {
+    "id": 16,
+    "reps": 12,
+    "series": 4,
+    "weight": 45.0,
+    "exercise": 16,
+    "progrmasDay": 1
+  },
+  {
+    "id": 17,
+    "reps": 12,
+    "series": 4,
+    "weight": 30.0,
+    "exercise": 17,
+    "progrmasDay": 2
+  },
+  {
+    "id": 18,
+    "reps": 10,
+    "series": 4,
+    "weight": 210.0,
+    "exercise": 18,
+    "progrmasDay": 3
+  },
+  {
+    "id": 19,
+    "reps": 15,
+    "series": 3,
+    "weight": 55.0,
+    "exercise": 19,
+    "progrmasDay": 4
+  },
+  {
+    "id": 20,
+    "reps": 10,
+    "series": 3,
+    "weight": 65.0,
+    "exercise": 20,
+    "progrmasDay": 5
+  }
+]
